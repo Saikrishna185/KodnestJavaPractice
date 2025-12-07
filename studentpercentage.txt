@@ -1,0 +1,8 @@
+Kanada Marks: 80
+English Marks: 90
+Hindi Marks: 88
+Math Marks: 90
+Science Marks: 80
+Social Marks: 90
+Total Marks: 518.0
+Percentage Marks: 8633.334
